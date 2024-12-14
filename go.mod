@@ -12,6 +12,8 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/pmezard/go-difflib v1.0.0
 	github.com/stretchr/testify v1.9.0
+	github.com/swaggest/swgui v1.8.2
+	github.com/vearutop/statigz v1.4.3
 	google.golang.org/grpc v1.69.0
 )
 
